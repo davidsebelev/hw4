@@ -49,7 +49,7 @@
   }
  .aside-wrapper-home{
     width: 1360px;
-    /* border: 1px solid red; */
+     border: 1px solid red; 
       height: 370px;  
     position: absolute;
     bottom: 0;
